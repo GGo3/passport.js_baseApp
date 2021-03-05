@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.field {
+  width: 100px;
+  margin: 10px;
+}
+
+.field-inv {
+  border: 2px dotted red;
+}
